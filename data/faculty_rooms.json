@@ -1,0 +1,72 @@
+[
+    {
+        "id": "fac_cse_01",
+        "name": "Dr. Arun Kumar",
+        "designation": "Assistant Professor",
+        "department": "CSE",
+        "cabin_number": "AB1-204",
+        "email": "arun@iiitkottayam.ac.in",
+        "image_url": "https://raw.githubusercontent.com/your-org/iiitk-resources/main/data/images/arun.jpg",
+        "is_hod": false
+    },
+    {
+        "id": "fac_cse_02",
+        "name": "Dr. Priya Sharma",
+        "designation": "Associate Professor",
+        "department": "CSE",
+        "cabin_number": "AB1-205",
+        "email": "priya@iiitkottayam.ac.in",
+        "image_url": "https://raw.githubusercontent.com/your-org/iiitk-resources/main/data/images/priya.jpg",
+        "is_hod": true
+    },
+    {
+        "id": "fac_cse_03",
+        "name": "Dr. Rajesh Menon",
+        "designation": "Assistant Professor",
+        "department": "CSE",
+        "cabin_number": "AB1-206",
+        "email": "rajesh@iiitkottayam.ac.in",
+        "image_url": "https://raw.githubusercontent.com/your-org/iiitk-resources/main/data/images/rajesh.jpg",
+        "is_hod": false
+    },
+    {
+        "id": "fac_ece_01",
+        "name": "Dr. Amit Verma",
+        "designation": "Associate Professor",
+        "department": "ECE",
+        "cabin_number": "AB2-101",
+        "email": "amit@iiitkottayam.ac.in",
+        "image_url": "https://raw.githubusercontent.com/your-org/iiitk-resources/main/data/images/amit.jpg",
+        "is_hod": true
+    },
+    {
+        "id": "fac_ece_02",
+        "name": "Dr. Sneha Pillai",
+        "designation": "Assistant Professor",
+        "department": "ECE",
+        "cabin_number": "AB2-102",
+        "email": "sneha@iiitkottayam.ac.in",
+        "image_url": "https://raw.githubusercontent.com/your-org/iiitk-resources/main/data/images/sneha.jpg",
+        "is_hod": false
+    },
+    {
+        "id": "fac_aids_01",
+        "name": "Dr. Vikram Singh",
+        "designation": "Associate Professor",
+        "department": "AIDS",
+        "cabin_number": "AB3-101",
+        "email": "vikram@iiitkottayam.ac.in",
+        "image_url": "https://raw.githubusercontent.com/your-org/iiitk-resources/main/data/images/vikram.jpg",
+        "is_hod": true
+    },
+    {
+        "id": "fac_math_01",
+        "name": "Dr. Lakshmi Nair",
+        "designation": "Assistant Professor",
+        "department": "Mathematics",
+        "cabin_number": "AB1-301",
+        "email": "lakshmi@iiitkottayam.ac.in",
+        "image_url": "https://raw.githubusercontent.com/your-org/iiitk-resources/main/data/images/lakshmi.jpg",
+        "is_hod": false
+    }
+]

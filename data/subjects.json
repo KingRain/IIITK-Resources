@@ -1,0 +1,42 @@
+{
+    "cs201": {
+        "name": "Data Structures & Algorithms",
+        "credits": 4,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/cs201.pdf"
+    },
+    "cs202": {
+        "name": "Operating Systems",
+        "credits": 3,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/cs202.pdf"
+    },
+    "cs203": {
+        "name": "Database Management Systems",
+        "credits": 4,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/cs203.pdf"
+    },
+    "cs204": {
+        "name": "Computer Networks",
+        "credits": 3,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/cs204.pdf"
+    },
+    "ec201": {
+        "name": "Digital Electronics",
+        "credits": 4,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/ec201.pdf"
+    },
+    "ec202": {
+        "name": "Signals & Systems",
+        "credits": 3,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/ec202.pdf"
+    },
+    "ma201": {
+        "name": "Discrete Mathematics",
+        "credits": 3,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/ma201.pdf"
+    },
+    "ma202": {
+        "name": "Probability & Statistics",
+        "credits": 3,
+        "syllabus_link": "https://www.iiitkottayam.ac.in/syllabus/ma202.pdf"
+    }
+}

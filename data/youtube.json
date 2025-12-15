@@ -1,0 +1,81 @@
+[
+    {
+        "subject_code": "cs201",
+        "title": "Data Structures (Abdul Bari)",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIHsye-Tzcp88Qs",
+        "thumbnail_url": "https://img.youtube.com/vi/1ZPJwR-l10U/hqdefault.jpg",
+        "recommended_for": [
+            "cse",
+            "aids",
+            "cys"
+        ]
+    },
+    {
+        "subject_code": "cs201",
+        "title": "DSA Full Course (Apna College)",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ",
+        "thumbnail_url": "https://img.youtube.com/vi/5_5oE5lgrhw/hqdefault.jpg",
+        "recommended_for": [
+            "cse",
+            "aids"
+        ]
+    },
+    {
+        "subject_code": "cs202",
+        "title": "OS Gate Smashers",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9p3UJk5b5adi",
+        "thumbnail_url": "https://img.youtube.com/vi/bkSWJJZNgf8/hqdefault.jpg",
+        "recommended_for": [
+            "all"
+        ]
+    },
+    {
+        "subject_code": "cs202",
+        "title": "Operating Systems (Neso Academy)",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O",
+        "thumbnail_url": "https://img.youtube.com/vi/vBURTt97EkA/hqdefault.jpg",
+        "recommended_for": [
+            "cse",
+            "ece"
+        ]
+    },
+    {
+        "subject_code": "cs203",
+        "title": "DBMS Gate Smashers",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y",
+        "thumbnail_url": "https://img.youtube.com/vi/kBdlM6hNDAE/hqdefault.jpg",
+        "recommended_for": [
+            "all"
+        ]
+    },
+    {
+        "subject_code": "cs204",
+        "title": "Computer Networks (Gate Smashers)",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+        "thumbnail_url": "https://img.youtube.com/vi/JFF2vJaN0Cw/hqdefault.jpg",
+        "recommended_for": [
+            "cse",
+            "ece",
+            "cys"
+        ]
+    },
+    {
+        "subject_code": "ec201",
+        "title": "Digital Electronics (Neso Academy)",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm",
+        "thumbnail_url": "https://img.youtube.com/vi/M0mx8S05v60/hqdefault.jpg",
+        "recommended_for": [
+            "ece",
+            "cse"
+        ]
+    },
+    {
+        "subject_code": "ma201",
+        "title": "Discrete Mathematics (Trefor Bazett)",
+        "playlist_url": "https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS",
+        "thumbnail_url": "https://img.youtube.com/vi/tyDKR4FG3Yw/hqdefault.jpg",
+        "recommended_for": [
+            "all"
+        ]
+    }
+]
